@@ -1,0 +1,221 @@
+*{
+	margin:0;
+	padding:0;
+}
+body{
+	
+	font-family: 'Trade Winds', 
+	
+	}
+	
+header{
+	margin:0 auto;
+	width:960px;
+}
+	
+.name{
+	color:orange;
+	font-size:50px;
+	
+}
+
+.heading{
+	
+}
+
+.headingtext{
+		float:left;
+		width:450px;
+		
+}
+.headingtext h2{
+	font-size:30px;
+	color:#8B8BA0;
+	padding:5px 0px;
+}
+
+.headingtext h1{
+	color:#8B8BA0;
+	padding:5px 0px;
+}
+.headingtext p{
+	font-size:18px;
+	padding:5px 0px;
+}
+
+.headingtext a{
+	text-decoration:none;
+	font-size:20px;
+	float:right;
+	background:#EC4D81;
+	color:white;
+	padding:10px;
+	border:1px solid #C4E5BF;
+	
+	
+	
+	 border-radius: 15px 50px;
+  
+  padding: 20px; 
+  width: 50x;
+  height: 30px; 
+  margin:20px 0px;
+}
+.headingtext a:hover{
+	background:#FFBA24;
+	color:black;
+	
+	
+}
+
+.headingimage{
+	width:400px;	
+	float:right;
+	margin:10px 0px;
+}
+.headingimage img{
+	width:400px;
+	height:400px;
+	
+
+}	
+
+.sectiontwo{
+	height:auto;
+	
+	
+}
+
+.leftimage{
+	float:left;
+	
+}
+.leftimage img{
+	height:350px;
+	width:400px;
+	margin-top:180px;
+}
+
+.righttext{
+	float:right;
+	width:400px;
+}
+
+.righttext h1{
+	color:#8E95A5;
+	font-size:25px;
+	padding-top:20px;
+	margin-top:50px;
+	border-bottom:2px solid #E84788;
+}
+
+
+.righttext p{
+	margin-top:10px;
+	color:#000000;
+	font-size:18px;
+	text-align:justify;
+}
+
+
+.righttext a{
+	text-decoration:none;
+	font-size:20px;
+	float:right;
+	background:#EC4D81;
+	color:white;
+	padding:10px;
+	border:1px solid #C4E5BF;
+	
+	
+	
+	 border-radius: 15px 50px;
+  
+  padding: 20px; 
+  width: 50x;
+  height: 30px; 
+  margin:20px 0px;;
+}
+
+.righttext a:hover{
+	background:#FFBA24;
+	color:black;	
+}
+
+.secthree{
+	
+height:auto;
+display:inline-block;
+padding:10px;
+
+}
+
+
+
+.secthreehead{
+	
+}
+
+.secthreehead h1{
+	color:#8E95A5;
+	font-size:25px;
+	padding-top:20px;
+	margin-top:50px;
+	border-bottom:2px solid #E84788;
+	text-align:center;
+}
+.secthreeimg{
+	
+}
+
+.secthreeimg img{
+	box-shadow:5px 10px #C0C0C0;
+	margin-top:10px;
+	height:280;
+	width:300px;
+	margin:0px 5px;
+	
+}
+
+.secfor{
+	text-align:center;
+}
+.secfor h1{
+	color:#8E95A5;
+	font-size:25px;
+	padding-top:20px;
+	margin-top:50px;
+	border-bottom:2px solid #E84788;
+	text-align:center
+}
+	
+.secfor h3{
+	font-width:bold;
+	font-size:20px;
+	padding:10px;
+	
+}
+.secfor h6{
+	font-size:19px;
+	padding:0px 10px;
+	margin-bottom:10px;
+}
+.secfor p{
+	font-size:20px;
+}
+.footer{
+	background:#EC4F8F;
+	text-align:center;
+	margin:20px 0px;
+	border:2px solid #8B8BA0;
+}
+.footer h1{
+	color:#FFFFFF;
+	
+}
+
+.footer p{
+	color:#FFFFFF;
+	padding-bottom:10px;
+
+}
