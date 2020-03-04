@@ -41,6 +41,7 @@ header{
 .headingtext p{
 	font-size:18px;
 	padding:5px 0px;
+	color:black;
 }
 
 .headingtext a{
@@ -107,6 +108,7 @@ header{
 	padding-top:20px;
 	margin-top:50px;
 	border-bottom:2px solid #E84788;
+	width;300PX;
 }
 
 
