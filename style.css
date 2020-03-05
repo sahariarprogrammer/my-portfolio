@@ -41,7 +41,7 @@ header{
 .headingtext p{
 	font-size:18px;
 	padding:5px 0px;
-	color:black;
+	text-align:justify;
 }
 
 .headingtext a{
@@ -100,6 +100,8 @@ header{
 .righttext{
 	float:right;
 	width:400px;
+	text-align:center;
+	
 }
 
 .righttext h1{
@@ -108,7 +110,8 @@ header{
 	padding-top:20px;
 	margin-top:50px;
 	border-bottom:2px solid #E84788;
-	width;300PX;
+	width:130px;
+	margin-left:120px;
 }
 
 
@@ -155,56 +158,32 @@ padding:10px;
 
 
 .secthreehead{
-	
+	margin-bottom:30px;
 }
 
 .secthreehead h1{
+	width:250px;
 	color:#8E95A5;
 	font-size:25px;
 	padding-top:20px;
 	margin-top:50px;
 	border-bottom:2px solid #E84788;
 	text-align:center;
+	margin-left:350px;
 }
 .secthreeimg{
-	
+	text-align:center;
 }
 
 .secthreeimg img{
-	box-shadow:5px 10px #C0C0C0;
-	margin-top:10px;
-	height:280;
-	width:300px;
-	margin:0px 5px;
-	
+	height:300px;
+	width:280px;
+	box-shadow:5px 5px 10px #8096AB;
+	margin: 0px 10px;
+	border-radius:15px;
 }
 
-.secfor{
-	text-align:center;
-}
-.secfor h1{
-	color:#8E95A5;
-	font-size:25px;
-	padding-top:20px;
-	margin-top:50px;
-	border-bottom:2px solid #E84788;
-	text-align:center
-}
-	
-.secfor h3{
-	font-width:bold;
-	font-size:20px;
-	padding:10px;
-	
-}
-.secfor h6{
-	font-size:19px;
-	padding:0px 10px;
-	margin-bottom:10px;
-}
-.secfor p{
-	font-size:20px;
-}
+
 .footer{
 	background:#EC4F8F;
 	text-align:center;
